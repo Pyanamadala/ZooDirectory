@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zoo Directory</string>
+    <string name="action_info">Information</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="title_activity_zoo_info">ZooInfoActivity</string>
+    <string name="title_activity_animal_detail">AnimalDetailActivity</string>
+    <string name="lion">The lion is one of the five big cats in the genus Panthera and a member of the family Felidae. The commonly used term African lion collectively denotes the several subspecies found in Africa.</string>
+    <string name="koala">The koala (Phascolarctos cinereus, or, inaccurately, koala bear is an arboreal herbivorous marsupial native to Australia. It is the only extant representative of the family Phascolarctidae and its closest living relatives are the wombats. </string>
+    <string name="tiger">The tiger (Panthera tigris) is the largest cat species, reaching a total body length of up to 11.1 ft over curves and exceptionally weighing up to 857 lb in the wild. Its most recognisable feature is a pattern of dark vertical stripes on reddish-orange fur with a lighter underside.</string>
+    <string name="panda">The giant panda, also known as panda bear or simply panda, is a bear native to south central China. It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body.</string>
+    <string name="zebra">Zebras are several species of African equids united by their distinctive black and white striped coats. Their stripes come in different patterns, unique to each individual. They are generally social animals that live in small harems to large herds. Unlike their closest relatives, horses and donkeys, zebras have never been truly domesticated.</string>
+
+    <string name="monkey">Monkeys are haplorhine primates, a paraphyletic group generally possessing tails and consisting of approximately 260 known living species. Many monkey species are tree-dwelling (arboreal), although there are species that live primarily on the ground, such as baboons.</string>
+    <string name="elephant">Elephants are large mammals of the family Elephantidae and the order Proboscidea. Two species are traditionally recognised, the African elephant and the Asian elephant, although some evidence suggests that African bush elephants and African forest elephants are separate species.</string>
+</resources>
+
